@@ -1,9 +1,8 @@
 # SpringBoot-Batch-Processing
 
-Spring Batch Processing
-Spring Batch
-Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications.
-What is Batch Application?
+Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications.<br>
+
+**What is Batch Application?**
     The application which processes the bulk of records is called as Batch application. For Example
 	Sending Monthly Salaries to all employees in the company
 	Generating Monthly PaySlips
@@ -19,11 +18,10 @@ Spring Batch Terminology
 5)	Item Processor
 6)	Item Writer
 7)	Job Repository
-  Source                                                                                                        Destination
-                                                                                                                                
-                                                             	
-           Item Reader                   Item Processer                Item Writer          
 
+   ![image](https://github.com/Debarjitmohanty/SpringBoot-Batch-Processing/assets/91021174/c08c636d-bc2f-4cd3-8fd7-2de571fd44b8)
+
+ 
  
 Requirement : Read customer data From CSV file and write it into Database table
  1) Create Spring Starter project with the below dependencies
