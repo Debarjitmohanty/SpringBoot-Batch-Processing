@@ -2,7 +2,7 @@
 
 Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications.<br>
 
-**What is Batch Application?**
+**What is Batch Application?**<br>
     The application which processes the bulk of records is called as Batch application. For Example<br>
 👉🏻	Sending Monthly Salaries to all employees in the company<br>
 👉🏻	Generating Monthly PaySlips<br>
