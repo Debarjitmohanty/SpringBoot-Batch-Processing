@@ -3,14 +3,15 @@
 Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications.<br>
 
 **What is Batch Application?**
-    The application which processes the bulk of records is called as Batch application. For Example
-	Sending Monthly Salaries to all employees in the company
-	Generating Monthly PaySlips
-	Sending Monlty Account statement to account holders
-	Sending Monthly Credit Card bill statement
-	Sending Greetings to multiple customers                                                       
-	Sending Notices on a daily/weekly/monthly/yearly basis...
-Spring Batch Terminology
+    The application which processes the bulk of records is called as Batch application. For Example<br>
+👉🏻	Sending Monthly Salaries to all employees in the company<br>
+👉🏻	Generating Monthly PaySlips<br>
+👉🏻	Sending Monlty Account statement to account holders<br>
+👉🏻	Sending Monthly Credit Card bill statement<br>
+👉🏻	Sending Greetings to multiple customers<br>                                                       
+👉🏻	Sending Notices on a daily/weekly/monthly/yearly basis...<br>
+
+**Spring Batch Terminology**
 1)	Job Launcher
 2)	Job
 3)	Step
